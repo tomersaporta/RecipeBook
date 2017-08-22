@@ -1,0 +1,21 @@
+﻿
+
+@{
+
+    var routeValues = HttpContext.Current.Request.RequestContext.RouteData.Values;
+    string layout = "";
+    if (routeValues != null)
+    {
+        if (routeValues.ContainsKey("ManagementRecipes"))
+        {
+            layout = "~/Views/Shared/_AdminLayout.cshtml";
+        }
+
+        else
+        {
+            layout = "~/Views/Shared/_Layout.cshtml";
+        }
+    }
+    Layout = layout;
+
+}

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<RecipesBook.Models.Recipes>
+
+@{
+    ViewBag.Title = "ManagementRecipes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Session["AdminName"] != null)
+{
+    <text>
+        <h2>
+            welcome @Session["AdminName"].ToString()
+        </h2>
+    </text>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.recipeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.recipeAuthor)
+        </th>
+        <th>
+            Options
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.recipeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.recipeAuthor)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.RecipesID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.RecipesID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.RecipesID }) |
+                @Html.ActionLink("Comments", "Comments", "Recipes", new { id = item.RecipesID }, null)
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+<br />
+
+<div id="chartID"></div>
+
+
+
+

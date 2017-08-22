@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Browser Page title</title>
+
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+    @RenderSection("Styles", false)
+
+    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+    <script src="jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/JavaScript.js"></script>
+
+
+
+</head>
+<body>
+    <header>
+        <h1 id="shadow">recipes Book</h1>
+    </header>
+    <nav>
+        <!-- Navigation -->
+        <ul>
+            <li><a href="@Url.Action("Index","Recipes")">Recipes</a></li>
+            <li><a href="@Url.Action("create","users")">New User</a></li>
+            <li><a href="@Url.Action("Edit","Recipes")">Edit My Rescipes</a></li>
+            <li><a href="@Url.Action("Login","Admins")">Login Admin</a></li>
+        </ul>
+    </nav>
+
+    <section id="intro">
+        <!-- Introduction -->
+
+        <header>
+            <h2>What would you like to cook?</h2>
+        </header>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+        <img src="~/Content/images/background.jpg" alt="Shauli" />
+    </section>
+
+    <div id="content">
+        <div id="mainContent">
+            <div class="container body-content">
+                @RenderBody()
+                <hr />
+
+            </div>
+        </div>
+        
+    </div>
+
+
+    <footer>
+        <!-- Footer -->
+        <div>
+
+            <section id="about">
+                <header>
+                    <h3>About</h3>
+                </header>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut la</p>
+            </section>
+            </div>
+    </footer>
+
+</body>
+</html>
+

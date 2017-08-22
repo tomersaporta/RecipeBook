@@ -1,0 +1,51 @@
+﻿@model RecipesBook.Models.Recipes
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Recipes</h4>
+    <hr />
+    <table style="width:100%">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipeName):</th>
+            <th>@Html.DisplayFor(model => model.recipeName)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipeAuthor):</th>
+            <th>@Html.DisplayFor(model => model.recipeAuthor)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipeType):</th>
+            <th>@Html.DisplayFor(model => model.recipeType)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipeCategory):</th>
+            <th>@Html.DisplayFor(model => model.recipeCategory)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipesIngredients):</th>
+            <th>@Html.DisplayFor(model => model.recipesIngredients)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.theRecipe):</th>
+            <th>@Html.DisplayFor(model => model.theRecipe)</th>
+        </tr>
+       
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipeImage):</th>
+            <th>@Html.DisplayFor(model => model.recipeImage)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.recipeVideo):</th>
+            <th>@Html.DisplayFor(model => model.recipeVideo)</th>
+        </tr>
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.RecipesID }) |
+    @Html.ActionLink("Back to List", "Management")
+</p>
