@@ -1,40 +1,53 @@
-﻿@model RecipesBook.Models.User
+﻿
+
+    
+@model RecipesBook.Models.User
 
 @{
     ViewBag.Title = "Login";
 }
 
-<h2>Login</h2>
+<h2>Login User</h2>
 
 @using (Html.BeginForm("Login", "Users", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
     @Html.ValidationSummary(true)
-    if(ViewBag.Message!= null)
+
+    if (ViewBag.msg2 != null)
     {
         <div style="border:1px solid red">
-            @ViewBag.Message
+            @ViewBag.msg2
         </div>
     }
-    <table>
-        <tr>
-            <td>@Html.LabelFor(a=>a.FullName)</td>
-            <td>@Html.TextBoxFor(a=>a.FullName)</td>
-            <td>@Html.ValidationMessageFor(a=>a.FullName)</td>
-        </tr>
-        <tr>
-            <td>@Html.LabelFor(a => a.Password)</td>
-            <td>@Html.PasswordFor(a=>a.Password)</td>
-            <td>@Html.ValidationMessageFor(a => a.Password)</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <input type="submit" value="Login" />
-            </td>
-            <td></td>
-        </tr>
-    </table>
+    <br />
+
+        <div class="form-group">
+            @Html.LabelFor(a => a.FullName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(a => a.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(a => a.FullName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(a => a.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(a => a.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(a => a.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Login" class="btn btn-default" />
+            </div>
+        </div>
+   
+
 }
 
 

@@ -3,19 +3,25 @@
 @{
     ViewBag.Title = "Login";
 }
-
-<h2>Login</h2>
+<h2>Login Admin</h2>
 
 @using (Html.BeginForm("Login", "Admins", FormMethod.Post))
 {
+
+    ///////////////////////// Not In Use!///////////////////
+
+        //admin login  from user login
+   ////////////////////////////////////////////////////////////
     @Html.AntiForgeryToken()
     @Html.ValidationSummary(true)
-    if (ViewBag.Message != null)
+
+    if (ViewBag.msg != null)
     {
         <div style="border:1px solid red">
-            @ViewBag.Message
+            @ViewBag.msg
         </div>
     }
+    <br/>
     <table>
         <tr>
             <td>@Html.LabelFor(a => a.Name)</td>
@@ -24,15 +30,13 @@
         </tr>
         <tr>
             <td>@Html.LabelFor(a => a.Password)</td>
-            <td>@Html.TextBoxFor(a => a.Password)</td>
+            <td>@Html.PasswordFor(a => a.Password)</td>
             <td>@Html.ValidationMessageFor(a => a.Password)</td>
-        </tr>
-        <tr>
-            <td></td>
+        <tr></tr>
             <td>
                 <input type="submit" value="Login" />
             </td>
-            <td></td>
-        </tr>
+           
+        
     </table>
 }

@@ -10,7 +10,7 @@
 {
     <text>
         <h2>
-            welcome @Session["AdminName"].ToString()
+            Welcome @Session["AdminName"].ToString()
         </h2>
     </text>
 }
@@ -22,7 +22,7 @@
             @Html.DisplayNameFor(model => model.recipeName)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.recipeAuthor)
+            @Html.DisplayNameFor(model => model.user.FullName)
         </th>
         <th>
             Options
@@ -37,12 +37,12 @@
                 @Html.DisplayFor(modelItem => item.recipeName)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.recipeAuthor)
+                @Html.DisplayFor(modelItem => item.user.FullName)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.RecipesID }) |
-                @Html.ActionLink("Details", "Details", new { id = item.RecipesID }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.RecipesID }) |
+                @Html.ActionLink("Edit", "Edit", "Recipes", new { id = item.RecipesID },null) |
+                @Html.ActionLink("Details", "Details", "Recipes", new { id = item.RecipesID }, null) |
+                @Html.ActionLink("Delete", "Delete", "Recipes", new { id = item.RecipesID }, null) |
                 @Html.ActionLink("Comments", "Comments", "Recipes", new { id = item.RecipesID }, null)
 
 
@@ -51,7 +51,6 @@
     }
 
 </table>
-<br />
 <br />
 
 <div id="chartID"></div>

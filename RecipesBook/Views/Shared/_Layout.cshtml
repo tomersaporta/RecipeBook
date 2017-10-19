@@ -1,41 +1,97 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title>Browser Page title</title>
+    <title>Recipe Book</title>
 
-    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
-    @RenderSection("Styles", false)
 
-    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
-    <script src="jquery-3.2.1.min.js"></script>
+
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+  
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/Content/css/bootstrap.css">
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css">
+    <!-- Ajax -->
+    <script src="~/Scripts/ajax.js"></script>
+    <!-- D3-->
+    <script src="~/Scripts/D3.js"></script>
+
+    <link rel="stylesheet" href="~/Content/css/style.css">
     <script src="~/Scripts/JavaScript.js"></script>
-
-
-
+    <script src="/Scripts/logo.js" type="text/javascript"></script>
+   
 </head>
+
+
 <body>
+    <!-- Canvas  Logo-->
     <header>
-        <h1 id="shadow">recipes Book</h1>
+        <canvas id="logo" width="500" height="100"></canvas>
     </header>
-    <nav>
-        <!-- Navigation -->
-        <ul>
-            <li><a href="@Url.Action("Index","Recipes")">Recipes</a></li>
-            <li><a href="@Url.Action("create","users")">New User</a></li>
-            <li><a href="@Url.Action("Edit","Recipes")">Edit My Rescipes</a></li>
-            <li><a href="@Url.Action("Login","Admins")">Login Admin</a></li>
-        </ul>
-    </nav>
+    <!-- Navbar-->
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="@Url.Action("IndexEveryOne","Recipes")">RecipeBook</a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="@Url.Action("IndexEveryOne","Recipes")">Home</a></li>
 
+                        <li><a href="@Url.Action("IndexEveryOne","Recipes")">Recipes</a></li>
+
+
+                    </ul>
+
+                  
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="@Url.Action("create","users")"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                        <li><a href="@Url.Action("Login","users")"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    <!-- Introduction -->
     <section id="intro">
-        <!-- Introduction -->
+        <div>
+            <div class="video-container">
+                <div class="title-container">
+                    <div class="headline">
+                        <h1>Welcome to Recipe Book</h1>
 
-        <header>
-            <h2>What would you like to cook?</h2>
-        </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
-        <img src="~/Content/images/background.jpg" alt="Shauli" />
+                    </div>
+                    <div class="description">
+                        <div class="inner">Before we talk about us, let’s talk about you.
+
+You love to eat. That’s right, we’ve got your number. There’s no need to be shy about it — we love to eat, too.
+
+We’ve been helping you eat for awhile now, and we wouldn’t have it any other way. We also know about all the other stuff you love: Like cooking and getting together, and talking about eating, and sharing it all here, on Food.com.
+
+Over the fifteen-year life span of Food.com, we’ve learned that – in addition to eating – sharing is what you do best. And thanks to the 20 million of you who come here each month, we now have 500,000 recipes to show for it, more than anywhere else in the digital universe. We also have tons crazy-tempting photos, troves of recipe reviews and more than 2 million Facebook likes. That’s a heck of a lot of Food. Thank you!
+</div>
+                    </div>
+                </div>
+                <div class="filter"></div>
+                <video autoplay loop class="fillWidth">
+                    <source src="~/Content/video/videoplayback.webm" type="video/webm">
+                </video>
+              
+            </div>
+        </div>
+
+
     </section>
 
     <div id="content">
@@ -52,13 +108,14 @@
 
     <footer>
         <!-- Footer -->
+       
         <div>
-
+            
             <section id="about">
-                <header>
+                <div>
                     <h3>About</h3>
-                </header>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut la</p>
+                </div>
+                <p>Final project by Maayan Mash, Adin Epstein and Tomer Saporta</p>
             </section>
             </div>
     </footer>

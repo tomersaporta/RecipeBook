@@ -5,18 +5,25 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+@if (Session["AdminName"] != null)
+{
+    <text>
+        <h2>
+            Welcome @Session["AdminName"].ToString()
+        </h2>
+    </text>
+}
+
+
 <h2>Index</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
 <table class="table">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.recipeName)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.recipeAuthor)
+            @Html.DisplayNameFor(model => model.user.FullName)
         </th>
         <th>
             Options
@@ -31,12 +38,12 @@
                 @Html.DisplayFor(modelItem => item.recipeName)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.recipeAuthor)
+                @Html.DisplayFor(modelItem => item.user.FullName)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.RecipesID }) |
-                @Html.ActionLink("Details", "Details", new { id = item.RecipesID }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.RecipesID }) |
+                @Html.ActionLink("Edit", "Edit", "Recipes", new { id = item.RecipesID }, null) |
+                @Html.ActionLink("Details", "Details", "Recipes", new { id = item.RecipesID }, null) |
+                @Html.ActionLink("Delete", "Delete", "Recipes", new { id = item.RecipesID }, null) |
                 @Html.ActionLink("Comments", "Comments", "Recipes", new { id = item.RecipesID }, null)
 
 

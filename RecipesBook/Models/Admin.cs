@@ -15,7 +15,7 @@ namespace RecipesBook.Models
         [Display(Name = "Name")]
         public string Name { get; set; }
 
-        [Required(ErrorMessage = "please provide password")]
+        [Required(ErrorMessage = "please provide Password")]
         [DataType(System.ComponentModel.DataAnnotations.DataType.Password)]
         public string Password { get; set; }
     }

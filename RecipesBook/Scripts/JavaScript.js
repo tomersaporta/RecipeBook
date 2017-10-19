@@ -1,26 +1,5 @@
 ﻿
- {
-    var name = $("#chartUser").val();
-    var address = "/Users/getUserData?id=";
-    address += encodeURIComponent(name);
-    $.ajax({
-        cache: false,
-        type: "GET",
-        url: address,
-        dataType: 'json',
-        success: function (result) {
-            var data1 = [];
-            for (var i = 0; i < result.length; i++) {
-                data1.push({ label: result[i].label, quantity: result[i].quantity });
-            }
-            updateBar(data1);
-        },
-        error: function (xhr, ajaxOptions, thrownError) {
-            alert('Failed to retrieve data.');
-        }
-    });
-                
-};
+ 
            
 $.ajax({
     cache: false,
@@ -102,9 +81,7 @@ function d3BarChart(dataSet) {
       .text(function (d) { return d.quantity; });
 
 }
-function updateBar(dataSet) {
-    barChart.exit().remove();
-}
+
         
 
        $.ajax({

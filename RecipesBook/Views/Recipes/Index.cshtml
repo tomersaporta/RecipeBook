@@ -6,15 +6,23 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+@if (Session["UserName"] != null)
+{
+    <text>
+        <h2>
+            Welcome @Session["UserName"].ToString()
+        </h2>
+    </text>
+}
+
 <!doctype html>
 <html>
 <head>
 
 </head>
 <body>
-
-    <div id="content">
-        <div id="mainContent">
+    
+        <div id="mainContent-recipesbook-peruser">
 
             <p>
 
@@ -33,12 +41,13 @@
 
 
                 @foreach (var item in Model)
-            {
+                {
+
                     <section>
                         <article class="blogPost">
                             <header>
                                 <h2>@item.recipeName</h2>
-                                <p>Recipe by <a>@item.recipeAuthor</a> </p>
+                                <p>Recipe by <a>@item.user.FullName</a> </p>
                             </header>
                             <div>
                                 <p> <b>Ingredients </b></p>
@@ -46,7 +55,7 @@
                                 <p> <b>Direction </b></p>
                                 <p>@item.theRecipe</p>
                                 <img src="@item.recipeImage" />
-                                @if(@item.recipeVideo!=null)
+                                @if (@item.recipeVideo != null)
                                 {
                                     <video controls="controls">
                                         <source src="@item.recipeVideo" />
@@ -56,7 +65,14 @@
                             </div>
                         </article>
                         <br/>
-                        <a href='@Url.Action("AddLike", "Recipes",new { id = item.RecipesID })'>
+
+                        <div class="fb-button" id=@item.RecipesID title=@item.recipeName type="button">
+                            <svg viewBox="0 0 12 12" preserveAspectRatio="xMidYMid meet">
+                                <path class="svg-icon-path" d="M9.1,0.1V2H8C7.6,2,7.3,2.1,7.1,2.3C7,2.4,6.9,2.7,6.9,3v1.4H9L8.8,6.5H6.9V12H4.7V6.5H2.9V4.4h1.8V2.8 c0-0.9,0.3-1.6,0.7-2.1C6,0.2,6.6,0,7.5,0C8.2,0,8.7,0,9.1,0.1z"></path>
+                            </svg>
+                            <span>Share</span>
+                        </div>
+                        <a href='@Url.Action("AddLike", "Recipes", new { id = item.RecipesID })'>
                             <img src='@Url.Content("~/Content/images/2764.png")' />
                         </a>
                         @item.countLike
@@ -66,7 +82,6 @@
                         <h3>Comments</h3>
                         @foreach (var comment in item.commentList)
                         {
-                            <h3>maayan</h3>
                             <div>
                                 <article id="comments">
                                     <header>
@@ -79,7 +94,7 @@
 
                                 </article>
                             </div>
-                            
+
                         }
                     </section>
 
@@ -94,21 +109,61 @@
                                     <label for="title" class="required">Title</label>
                                     <input name="commentTitle" id="commentTitle" type="text" required />
                                 </p>
-                                <p>
-                                    <label for="name" class="required">Name</label>
-                                    <input name="writerName" id="writerName" type="text" required />
-                                </p>
+                                @Html.Hidden("writerName", "Temp")
+                
                                 <p>
                                     <label for="comment">Comment</label>
-                                    <textarea name="content" id="content" required></textarea>
+                                    <textarea name="content" id="content" required rows="5" cols="20"></textarea>
                                 </p>
                                 <p><input type="submit" value="Add" /></p>
                             </form>
                         </div>
                     }
                     <hr />
+
+                    <script>
+                        //initilize Facebook API
+                        window.fbAsyncInit = function () {
+                            FB.init({
+                                appId: '411972339197916',
+                                autoLogAppEvents: true,
+                                xfbml: true,
+                                version: 'v2.10'
+                            });
+                        }
+                        document.getElementById(@item.RecipesID).onclick = function () {
+                            
+                       
+                                 FB.ui({
+                                    method: 'share',
+                                    href: 'www.recipe.co.il' ,
+                                    quote: "Great recipe: " + document.getElementById(@item.RecipesID).title + " - in www.recipe.co.il",
+
+
+                                }, function (response) {
+                                    if (response && response.post_id) {
+                                        alert('Post was published.');
+                                    } else {
+                                        /*alert('Post was not published.');*/
+                                    }
+                                });
+                        }
+                        {
+
+                        }
+                        (function (d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id)) { return; }
+                            js = d.createElement(s); js.id = id;
+                            js.src = "//connect.facebook.net/en_US/sdk.js";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));
+                        
+                    </script>
+
                 }
+
             </div>
-        </div>
+
     </body>
 </html>

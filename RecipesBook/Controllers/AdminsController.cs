@@ -13,19 +13,14 @@ namespace RecipesBook.Controllers
     public class AdminsController : Controller
     {
         private AdminDBContext db = new AdminDBContext();
-        private Book boox = new Book();
+        private Book book = new Book();
 
         // GET: Admins
         public ActionResult Index()
         {
             //return View(db.Admins.ToList());
-            if (Session["AdminID"] != null)
-            {
-                return View(db.Admins.ToList());
+            return View("Index", "_AdminLayout", db.Admins.ToList());
 
-            }
-            else
-                return RedirectToAction("Create");
         }
 
         public ActionResult Login()
@@ -43,10 +38,10 @@ namespace RecipesBook.Controllers
                 {
                     Session["AdminID"] = a.ID.ToString();
                     Session["AdminName"] = a.Name.ToString();
-                    return RedirectToAction("ManagementRecipes");
+                    return View("~/Views/Recipes/Management.cshtml", "_AdminLayout", book.recipes.ToList());
                 }
             }
-
+            ViewBag.msg = "userName or password not exist";
             return View();
 
         }
@@ -63,13 +58,13 @@ namespace RecipesBook.Controllers
             {
                 return HttpNotFound();
             }
-            return View(admin);
+            return View("Details", "_AdminLayout", admin);
         }
 
         // GET: Admins/Create
         public ActionResult Create()
         {
-            return View();
+            return View("Create", "_AdminLayout");
         }
 
         // POST: Admins/Create
@@ -85,8 +80,7 @@ namespace RecipesBook.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
-            return View(admin);
+            return View("Create", "_AdminLayout", admin);
         }
 
         // GET: Admins/Edit/5
@@ -101,7 +95,7 @@ namespace RecipesBook.Controllers
             {
                 return HttpNotFound();
             }
-            return View(admin);
+            return View("Edit", "_AdminLayout", admin);
         }
 
         // POST: Admins/Edit/5
@@ -117,7 +111,8 @@ namespace RecipesBook.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(admin);
+            return View("Edit", "_AdminLayout", admin);
+
         }
 
         // GET: Admins/Delete/5
@@ -132,7 +127,8 @@ namespace RecipesBook.Controllers
             {
                 return HttpNotFound();
             }
-            return View(admin);
+            return View("Delete", "_AdminLayout", admin);
+
         }
 
         // POST: Admins/Delete/5
@@ -155,15 +151,19 @@ namespace RecipesBook.Controllers
             base.Dispose(disposing);
         }
 
+
         public ActionResult ManagementRecipes()
         {
-            if (Session["AdminID"] != null)
-            {
-                return View(boox.recipes.ToList());
+           
+            return View("~/Views/Recipes/Management.cshtml", "_AdminLayout",book.recipes.ToList());
 
-            }
-            else
-                return RedirectToAction("Login");
+        }
+
+        public ActionResult LogOut()
+        {
+            Session["AdminID"] = null;
+            Session["AdminName"] = null;
+            return RedirectToAction("IndexEveryOne", "Recipes");
         }
     }
 }

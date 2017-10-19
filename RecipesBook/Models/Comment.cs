@@ -22,7 +22,7 @@ namespace RecipesBook.Models
         [Display(Name = "Writer Name")]
         [DataType(DataType.Text)]
         [Required]
-        public string writerName { set; get; }
+        public string writerName { set; get; } = "";
 
         [Display(Name = "Content")]
         [DataType(DataType.Text)]

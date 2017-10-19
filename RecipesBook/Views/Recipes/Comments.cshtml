@@ -14,7 +14,7 @@
                 <p id="details">
                     by: <a>@comment.writerName</a>
                     <br><a>@comment.content </a><br>
-                    <a>@Html.ActionLink("Delete", "DeleteComment", "recipes", new { id = comment.commentID }, null)</a>
+                    <a>@Html.ActionLink("Delete", "AdminDeleteComment", "Recipes", new { id = comment.commentID }, null)</a>
                 </p>
             </header>
 

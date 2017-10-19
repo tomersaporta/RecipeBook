@@ -25,14 +25,6 @@
         </div>
 
         <div class="form-group">
-            @Html.LabelFor(model => model.recipeAuthor, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.recipeAuthor, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.recipeAuthor, "", new { @class = "text-danger" })
-            </div>
-        </div>
-
-        <div class="form-group">
             @Html.LabelFor(model => model.recipeType, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EnumDropDownListFor(model => model.recipeType, htmlAttributes: new { @class = "form-control" })
@@ -51,7 +43,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.recipesIngredients, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.recipesIngredients, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.TextAreaFor(model => model.recipesIngredients, new { cols = 20, @rows = 10 })
                 @Html.ValidationMessageFor(model => model.recipesIngredients, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -59,7 +51,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.theRecipe, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.theRecipe, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.TextAreaFor(model => model.theRecipe, new { cols = 100, @rows = 20 })
                 @Html.ValidationMessageFor(model => model.theRecipe, "", new { @class = "text-danger" })
             </div>
         </div>

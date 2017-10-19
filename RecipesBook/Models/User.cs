@@ -29,7 +29,6 @@ namespace RecipesBook.Models
         [Required(ErrorMessage ="please provide password")]
         [DataType(System.ComponentModel.DataAnnotations.DataType.Password)]
         public string Password { get; set; }
-        //public Roles role { get; set; }
 
         public virtual ICollection<Recipes> recipes { get; set; }
 

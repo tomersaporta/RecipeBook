@@ -1,0 +1,50 @@
+﻿@model IEnumerable<RecipesBook.Models.Recipes>
+
+@{
+    ViewBag.Title = "EditMyRecipes";
+}
+
+@if (Session["UserName"] != null)
+{
+    <text>
+        <h2>
+            Welcome @Session["UserName"].ToString()
+        </h2>
+    </text>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.recipeName)
+        </th>
+        
+        <th>
+            Options
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        //if(item.user.FullName.ToString()== Session["UserName"].ToString())
+        if(item.user.ID.ToString()== Session["UserID"].ToString())
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.recipeName)</td>
+                <td>
+                    @Html.ActionLink("Edit", "EditRecipes", new { id = item.RecipesID }) |
+                    @Html.ActionLink("Details", "DetailsRecipes",new { id = item.RecipesID }) |
+                    @Html.ActionLink("Delete", "DeleteRecipes", new { id = item.RecipesID }) |
+                    @Html.ActionLink("Comments", "Comments",new { id = item.RecipesID }, null)
+
+
+                </td>
+            </tr>
+        }
+    }
+
+</table>
+
+<br />
+<br />

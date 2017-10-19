@@ -125,8 +125,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\bootstrap.css" />
+    <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\style.css" />
     <Content Include="Content\images\2764.png" />
     <Content Include="Content\images\A symbol of heart2.jpg" />
     <Content Include="Content\images\background.jpg" />
@@ -138,12 +139,21 @@
     <Content Include="Content\images\rss.png" />
     <Content Include="Content\images\sidebar_background.png" />
     <Content Include="Content\images\sidebar_section_background.png" />
-    <Content Include="Content\Site.css" />
-    <Content Include="Content\style.css" />
-    <Content Include="Content\video.css" />
+    <Content Include="Content\css\video.css" />
+    <Content Include="Content\video\Ahmet Agaoglu Showreel.wmv" />
     <Content Include="Content\video\Ahmet_Agaoglu_Showreel.mp4" />
+    <Content Include="Content\video\Ahmet_Agaoglu_Showreel1.mp4" />
+    <Content Include="Content\video\Ahmet_video.mp4" />
     <Content Include="Content\video\background.jpg" />
+    <Content Include="Content\video\mov_bbb.mp4" />
+    <Content Include="Content\video\videoplayback.mp4" />
+    <Content Include="Scripts\ajax.js" />
+    <Content Include="Scripts\D3.js" />
+    <Content Include="Scripts\d3.v3.min.js" />
     <Content Include="Scripts\JavaScript.js" />
+    <Content Include="Scripts\jquery-3.2.1.min.js" />
+    <Content Include="Scripts\logo.js" />
+    <Content Include="Scripts\video.js" />
     <Content Include="Views\Recipes\Create.cshtml" />
     <Content Include="Views\Recipes\Delete.cshtml" />
     <Content Include="Views\Recipes\Details.cshtml" />
@@ -156,8 +166,6 @@
     <Content Include="Views\Comments\Details.cshtml" />
     <Content Include="Views\Comments\Edit.cshtml" />
     <Content Include="Views\Comments\Index.cshtml" />
-    <Content Include="Content\video\New Text Document.txt" />
-    <Content Include="Content\video\test.html" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -167,6 +175,8 @@
     <Content Include="Content\fonts\MotionPicture.ttf" />
     <Content Include="Content\fonts\RemachineScript.ttf" />
     <Content Include="Content\fonts\SimplySquare.ttf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Content\video\videoplayback.webm" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -220,6 +230,17 @@
     <Content Include="Views\Admins\Index.cshtml" />
     <Content Include="Views\Admins\Login.cshtml" />
     <Content Include="Views\Admins\ManagementRecipes.cshtml" />
+    <Content Include="Views\Shared\_UserLayout.cshtml" />
+    <Content Include="Views\Users\EditMyRecipes.cshtml" />
+    <Content Include="Views\Users\EditMyAccount.cshtml" />
+    <Content Include="Views\Users\EditRecipes.cshtml" />
+    <Content Include="Views\Users\DeleteRecipes.cshtml" />
+    <Content Include="Views\Users\DetailsRecipes.cshtml" />
+    <Content Include="Views\Users\Comments.cshtml" />
+    <Content Include="Views\Recipes\IndexEveryOne.cshtml" />
+    <Content Include="Views\Recipes\userComment.cshtml" />
+    <Content Include="Views\Users\AdminDetails.cshtml" />
+    <Content Include="Views\Shared\Intro.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

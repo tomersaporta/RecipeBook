@@ -1,41 +1,90 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title>Browser Page title</title>
+    <title>Admin</title>
 
-    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
-    @RenderSection("Styles", false)
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+   
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
-    <script src="jquery-3.2.1.min.js"></script>
-    <script src="~/Scripts/JavaScript.js"></script>
 
+    <script src="~/Scripts/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js></script>
+
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/Content/css/bootstrap.css">
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css">
+    <!-- Ajax -->
+    <script src="~/Scripts/ajax.js"></script>
+    <!-- D3-->
+    <script src="~/Scripts/D3.js"></script>
+    <script src="~/Scripts/d3.v3.min.js"></script>
+
+    <link rel="stylesheet" href="~/Content/css/style.css">
+    <script src="~/Scripts/JavaScript.js"></script>
+    <script src="/Scripts/logo.js" type="text/javascript"></script>
 
 
 </head>
 <body>
+    <!-- Canvas  Logo-->
     <header>
-        <h1 id="shadow">recipes Book</h1>
+        <canvas id="logo" width="500" height="100"></canvas>
     </header>
-    <nav>
-        <!-- Navigation -->
-        <ul>
-            <li><a href="@Url.Action("Index","Recipes")">Recipes</a></li> 
-            <li><a href="@Url.Action("Create","Users")">New User</a></li>
-            <li><a href="@Url.Action("Index","Users")">Management Users</a></li>
-            <li><a href="@Url.Action("Management","Recipes")">Management Recipes</a></li>
-            <li><a href="@Url.Action("Index","Recipes")">Management Admin</a></li>
-        </ul>
+
+
+
+    <!-- Navbar-->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="@Url.Action("AdminIndex","Recipes")">Admin</a>
+                
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="@Url.Action("AdminIndex","Recipes")">Home</a></li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">Management <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="@Url.Action("Index","Users")">Management Users</a></li>
+                            <li><a href="@Url.Action("Management","Recipes")">Management Recipes</a></li>
+                            <li><a href="@Url.Action("Index","Admins")">Management Admins</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="@Url.Action("AdminIndex","Recipes")">Recipes</a></li>
+                    <li><a href="@Url.Action("AdminCreate","Users")">Creat User</a></li>
+
+                </ul>
+                <div class="navbar-form navbar-left">
+                   
+                
+                </div>
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li><a href="@Url.Action("LogOut","Admins")"><span class="glyphicon glyphicon-log-in"></span> LogOut</a></li>
+                </ul>
+            </div>
+        </div>
     </nav>
-
+    <!-- Introduction -->
     <section id="intro">
-        <!-- Introduction -->
-
         <header>
             <h2>What would you like to cook?</h2>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+        <p>Thank you so much for stopping by the site! If you are new to Simply Recipes, the one thing you should know about us is that we are obsessed with creating scratch cooking recipes that you will love.</p>
         <img src="~/Content/images/background.jpg" alt="Shauli" />
     </section>
 
@@ -56,9 +105,9 @@
         <div>
 
             <section id="about">
-                <header>
+                
                     <h3>About</h3>
-                </header>
+                
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut la</p>
             </section>
         </div>

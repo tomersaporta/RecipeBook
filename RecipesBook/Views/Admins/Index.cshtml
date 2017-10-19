@@ -9,7 +9,7 @@
 {
     <text>
         <h2>
-             welcome @Session["AdminName"].ToString()
+             Welcome @Session["AdminName"].ToString()
         </h2>
     </text>
 }
@@ -23,9 +23,7 @@
         <th>
             @Html.DisplayNameFor(model => model.Name)
         </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Password)
-        </th>
+       
         <th></th>
     </tr>
 
@@ -34,9 +32,7 @@
         <td>
             @Html.DisplayFor(modelItem => item.Name)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Password)
-        </td>
+       
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
             @Html.ActionLink("Details", "Details", new { id=item.ID }) |

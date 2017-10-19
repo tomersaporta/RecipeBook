@@ -1,0 +1,39 @@
+﻿
+@model RecipesBook.Models.User
+
+@{
+    ViewBag.Title = "AdminDetails";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>User</h4>
+    <hr />
+    @Html.Hidden("userID", Model.ID);
+    <table style="width:100%">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FullName):</th>
+            <th>@Html.DisplayFor(model => model.FullName)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.sex):</th>
+            <th>@Html.DisplayFor(model => model.sex)</th>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.BrithDate):</th>
+            <th>@Html.DisplayFor(model => model.BrithDate)</th>
+        </tr>
+
+    </table>
+
+</div>
+
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+<div id="chartUser"></div>
+
+

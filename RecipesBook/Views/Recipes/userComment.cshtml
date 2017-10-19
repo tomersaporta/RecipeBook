@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "userComment";
+}
+
+<h2>Comments</h2>
+
+@foreach (var comment in Model)
+{
+    <div>
+        <article id="comments">
+            <header>
+                <h4>@comment.commentTitle</h4>
+                <p id="details">
+                    by: <a>@comment.writerName</a>
+                    <br><a>@comment.content </a><br>
+                    <a>@Html.ActionLink("Delete", "DeleteComment", "recipes", new { id = comment.commentID }, null)</a>
+                </p>
+            </header>
+
+
+        </article>
+    </div>
+
+}
+<div>
+    @Html.ActionLink("Back to List", "~/Views/User/EditMyRecipes.cshtml")
+</div>
+

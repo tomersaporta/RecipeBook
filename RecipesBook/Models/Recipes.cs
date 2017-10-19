@@ -11,14 +11,9 @@ namespace RecipesBook.Models
     {
         public int RecipesID { get; set; }
           
-          [Required(ErrorMessage ="Name is required")]
-          [Display(Name = "Recipe Name")]
-          public string recipeName { get; set; }
-
-
-        [Required(ErrorMessage = "Author is required")]
-        [Display(Name = "Recipe Author")]
-        public string recipeAuthor { get; set; }
+        [Required(ErrorMessage ="Name is required")]
+        [Display(Name = "Recipe Name")]
+        public string recipeName { get; set; }
 
         [Display(Name = "Type")]
         public RecipesType recipeType { get; set; }

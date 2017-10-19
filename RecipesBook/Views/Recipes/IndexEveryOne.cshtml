@@ -1,0 +1,93 @@
+﻿
+@model IEnumerable<RecipesBook.Models.Recipes>
+
+
+@{
+    ViewBag.Title = "IndexEveryOne";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!doctype html>
+<html>
+<head>
+
+</head>
+<body>
+
+    <div id="content">
+        <div id="mainContent">
+
+            <p>
+               
+                @using (Html.BeginForm())
+            {
+                <p>
+
+                    Recipe by: @Html.DropDownList("recipeAuthor", "All")
+                    Type: @Html.DropDownList("recipeType", "All")
+                    Category: @Html.DropDownList("recipeCategory", "All")
+                    Name: @Html.TextBox("SearchString") <br />
+                    <input type="submit" value="Search" />
+                </p>
+                }
+          
+
+
+                @foreach (var item in Model)
+            {
+                    <section>
+                        <article class="blogPost">
+                            <header>
+                                <h2>@item.recipeName</h2>
+                                <p>Recipe by <a>@item.user.FullName</a> </p>
+                            </header>
+                            <div>
+                                <p> <b>Ingredients </b></p>
+                                <p> @item.recipesIngredients </p>
+                                <p> <b>Direction </b></p>
+                                <p>@item.theRecipe</p>
+                                <img src="@item.recipeImage" />
+                                @if (@item.recipeVideo != null)
+                                {
+                                    <video controls="controls">
+                                        <source src="@item.recipeVideo" />
+                                    </video>
+                                }
+
+                            </div>
+                        </article>
+                        <br />
+                       <p>
+                            <img src='@Url.Content("~/Content/images/2764.png")' />
+                     
+                            @item.countLike
+                       </p>
+
+                    </section>
+                    <section id="@item.RecipesID">
+                        <h3>Comments</h3>
+                        @foreach (var comment in item.commentList)
+                        {
+                            <div>
+                                <article id="comments">
+                                    <header>
+                                        <h4>@comment.commentTitle</h4>
+                                        <p id="details">
+                                            by: <a>@comment.writerName</a>
+                                            <br><a>@comment.content</a><br>
+                                        </p>
+                                    </header>
+
+                                </article>
+                            </div>
+
+                        }
+                    </section>
+
+                  
+                    <hr />
+                }
+            </div>
+        </div>
+    </body>
+</html>

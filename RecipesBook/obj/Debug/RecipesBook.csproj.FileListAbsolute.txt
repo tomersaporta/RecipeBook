@@ -1,0 +1,500 @@
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\RecipesBook.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\EntityFramework.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\EntityFramework.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+c:\users\tomer\documents\visual studio 2015\Projects\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\RecipesBook.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\EntityFramework.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\EntityFramework.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+C:\Users\User\Desktop\שנה ב\אפליקציות אינטרנטיות\פרויקט גמר\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\User\Desktop\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\RecipesBook.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\EntityFramework.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\EntityFramework.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+E:\מעיין\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+E:\מעיין\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+E:\מעיין\RecipesBook\RecipesBook\bin\RecipesBook.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+E:\מעיין\RecipesBook\RecipesBook\bin\EntityFramework.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+E:\מעיין\RecipesBook\RecipesBook\bin\EntityFramework.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+E:\מעיין\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+E:\מעיין\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+E:\מעיין\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+E:\מעיין\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\RecipesBook.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\EntityFramework.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\EntityFramework.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+C:\Users\KobKob\Desktop\מעיין\מעיין - אפליקציות\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\RecipesBook.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+D:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\RecipesBook.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+E:\מעיין - אפליקציות - חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\RecipesBook.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\EntityFramework.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\EntityFramework.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+C:\Users\KobKob\Desktop\מעיין\חדש\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\RecipesBook.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+C:\Users\Tomer\Desktop\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\ApplicationInsights.config
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\csc.exe
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\vbc.exe
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\RecipesBook.dll.config
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\RecipesBook.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\RecipesBook.pdb
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Helpers.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Mvc.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Razor.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.Web.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Razor.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Helpers.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\bin\System.Web.Mvc.xml
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\obj\Debug\RecipesBook.csprojResolveAssemblyReference.cache
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\obj\Debug\RecipesBook.dll
+C:\Users\Tomer\Desktop\לימודים\אפליקציות אנטרנטיות\last\RecipesBook\RecipesBook\obj\Debug\RecipesBook.pdb
